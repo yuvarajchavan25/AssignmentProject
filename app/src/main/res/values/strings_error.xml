@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timeout">Timeout</string>
+    <string name="timeout_error">Network connectivity is too slow.</string>
+    <string name="error">Error</string>
+    <string name="no_internet_connectivity">No Internet connected!</string>
+    <string name="server_error">Server error</string>
+    <string name="auth_error">AuthFailure error</string>
+    <string name="network_error">Network error</string>
+    <string name="parse_error">Parse error</string>
+    <string name="something_wrong_error">Something is getting wrong</string>
+    <string name="unexpected_error">Unexpected response</string>
+
+
+</resources>
