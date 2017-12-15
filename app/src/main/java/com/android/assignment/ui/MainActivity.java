@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
         setToolBar();
         initView();
         setUpViewPager();
-        Log.d("call","abc");
     }
 
     private void setToolBar() {
